@@ -6,5 +6,4 @@ How to use:
 - go build file-words-frequency
 - go run file-words-frequency
 - or simple use your ide run functionality
-- is just a simple program and not a service
-- it will call words-occurrence and display result
+- words-occurence MUST be running beforehand
